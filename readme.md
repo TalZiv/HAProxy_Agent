@@ -1,1 +1,1 @@
-HAProxy Load balancing feedback agent.
+HAProxy Load balancing feedback agent built in Python.
